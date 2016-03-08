@@ -1,0 +1,22 @@
+{
+  "name": "open-weather-map",
+  "homepage": "https://github.com/bpcoxjr/shopping-list",
+  "authors": [
+    "Bruce P Cox Jr <bpcoxjr@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
